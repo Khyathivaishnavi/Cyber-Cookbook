@@ -4,12 +4,12 @@ A high-speed web fuzzer developed in Go.FFUF is one of the newest and fastest op
 <br/>
 Fuzzing is the process of automatically providing random input to an application to find errors or unexpected behavior. It can also involve discovering hidden directories and files on a web server.
 <br/>
-#How to install fuff in kali linux:<br/>
-**Commmand: sudo apt-get install fuff**<br/>
+#How to install fuff in kali linux:<br/><br/>
+**Commmand: sudo apt-get install fuff**<br/><br/>
 ![fuff install](https://github.com/Khyathivaishnavi/Cyber-Cookbook/assets/99657976/e98894a6-08fc-453a-8bd1-7a9275a531b8)
 <br/>
 <br/>
-**Usage**<br/>
+**Usage**<br/> <br/>
 With the command **ffuf -h**. We can find the help page we can explore the tool with this command<br/>
 ![image](https://github.com/Khyathivaishnavi/Cyber-Cookbook/assets/99657976/98a6e8d1-ce95-420f-b60a-0ff7ba51d32f)
 <br/>
